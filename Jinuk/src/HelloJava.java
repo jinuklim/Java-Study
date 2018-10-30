@@ -6,6 +6,8 @@ public class HelloJava {
 
 		
 		System.out.println("Hello world");
+		System.out.println("Time is 20:00");
+		
 	}
 
 }

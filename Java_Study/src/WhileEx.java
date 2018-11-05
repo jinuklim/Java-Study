@@ -46,7 +46,7 @@ public class WhileEx {
 		
 		System.out.println("Hi");
 		System.out.print("Java");
-		//
+		////
 		}
 		
 		

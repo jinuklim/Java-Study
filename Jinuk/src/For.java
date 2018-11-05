@@ -59,6 +59,6 @@ public class For {
 	
 		System.out.println("1부터 100까지의 합 :"+sum2); //
 		
-	} //i의 생명은 여기까지
+	} //i의 생명은 여기까지 d
 
 }

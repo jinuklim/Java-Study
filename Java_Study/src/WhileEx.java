@@ -43,10 +43,16 @@ public class WhileEx {
 		}while (a<='Z');
 		
 		
-		
-		System.out.println("Hi");
+		System.out.println();
+		System.out.print("Hi" + '\n');  //println과 같은 역할 \n
 		System.out.print("Java");
-		//////
+		
+		
+		
+		
+		
+		
+		
 		}
 		
 		
